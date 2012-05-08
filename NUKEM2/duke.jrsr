@@ -1,0 +1,311 @@
+JRSR
+!BEGIN header
++PROJECTID e6267f8d9ce1a4000381721e1c6ae1a255115dd458678950
++RERECORDS 204
++SYSTEM PC-JPC-RR-r10
+!BEGIN initialization
++BIOS 41b86dc485554846f540848bf0048b15
++VGABIOS 49c4268a1d38bc06c494ba6a0d4d592c
++HDD f30c92aaa8efd4d6a3936c6a2937d17e
++DISK 0 f334bc4d5dc5f393feb0ca2d1e1cdc25
++DISKNAME 0(FreeDOS (initial fda disk))
++FDA 0
++INITIALTIME 1000000000000
++CPUDIVIDER 100
++MEMORYSIZE 512
++BOOT FLOPPY
++LOADMODULEA org.jpc.modules.SoundCard I7
++FLUSHONMODIFY
++IOPORTDELAY
++VGAHRETRACE
++SVGATYPE 1
++VGATIMINGMETHOD 1
+!BEGIN events
++0 OPTION RELATIVE
++171217608 SAVESTATE f69a7286325d1c83ca66869cc81c452abc02c337f811e3df 0
++0 SAVESTATE 50f4bebacb44b2fe2371846f672b174e508b1fa836f7ce54 0
++0 SAVESTATE 0a9eab2a16b201fc3e86fa191febcfe23b9beb5950a3c6a1 0
++0 SAVESTATE 184206d93481cda15f1c45e87e04f57dbfc711819d5b89b3 0
++24847098 org.jpc.emulator.peripheral.Keyboard KEYEDGE 28
++666660 org.jpc.emulator.peripheral.Keyboard KEYEDGE 28
++655649410 SAVESTATE e2aa45c7564ba71dea08f49d17e51ffb365680f3803153c7 0
++10700 org.jpc.emulator.peripheral.Keyboard KEYEDGE 66
++666660 org.jpc.emulator.peripheral.Keyboard KEYEDGE 21
++666660 org.jpc.emulator.peripheral.Keyboard KEYEDGE 21
++666660 org.jpc.emulator.peripheral.Keyboard KEYEDGE 21
++666660 org.jpc.emulator.peripheral.Keyboard KEYEDGE 21
++666660 org.jpc.emulator.peripheral.Keyboard KEYEDGE 21
++666660 org.jpc.emulator.peripheral.Keyboard KEYEDGE 21
++666660 org.jpc.emulator.peripheral.Keyboard KEYEDGE 21
++666660 org.jpc.emulator.peripheral.Keyboard KEYEDGE 21
++666660 org.jpc.emulator.peripheral.Keyboard KEYEDGE 21
++666660 org.jpc.emulator.peripheral.Keyboard KEYEDGE 49
++666660 org.jpc.emulator.peripheral.Keyboard KEYEDGE 1
++135336798 SAVESTATE ec3cb4d229760c8b1919b8065fec94d208146d8f2b421f6f 1
++214021912 SAVESTATE feb246c7efbc1e1392ff04ec1ffc754a565ee919d344e193 2
++0 SAVESTATE af80af59875fd4a28e61274da3421924c728e2b93c32471d 4
++37796 org.jpc.emulator.peripheral.Keyboard KEYEDGE 46
++666660 org.jpc.emulator.peripheral.Keyboard KEYEDGE 54
++666660 org.jpc.emulator.peripheral.Keyboard KEYEDGE 39
++666660 org.jpc.emulator.peripheral.Keyboard KEYEDGE 28
++666660 org.jpc.emulator.peripheral.Keyboard KEYEDGE 28
++666660 org.jpc.emulator.peripheral.Keyboard KEYEDGE 49
++666660 org.jpc.emulator.peripheral.Keyboard KEYEDGE 49
++666660 org.jpc.emulator.peripheral.Keyboard KEYEDGE 22
++666660 org.jpc.emulator.peripheral.Keyboard KEYEDGE 37
++666660 org.jpc.emulator.peripheral.Keyboard KEYEDGE 18
++666660 org.jpc.emulator.peripheral.Keyboard KEYEDGE 50
++666660 org.jpc.emulator.peripheral.Keyboard KEYEDGE 54
++666660 org.jpc.emulator.peripheral.Keyboard KEYEDGE 3
++666660 org.jpc.emulator.peripheral.Keyboard KEYEDGE 28
++119732136 org.jpc.emulator.peripheral.Keyboard KEYEDGE 28
++666660 org.jpc.emulator.peripheral.Keyboard KEYEDGE 39
++666660 org.jpc.emulator.peripheral.Keyboard KEYEDGE 37
++666660 org.jpc.emulator.peripheral.Keyboard KEYEDGE 50
++666660 org.jpc.emulator.peripheral.Keyboard KEYEDGE 49
++666660 org.jpc.emulator.peripheral.Keyboard KEYEDGE 22
++666660 org.jpc.emulator.peripheral.Keyboard KEYEDGE 21
++666660 org.jpc.emulator.peripheral.Keyboard KEYEDGE 18
++666660 org.jpc.emulator.peripheral.Keyboard KEYEDGE 46
++666660 org.jpc.emulator.peripheral.Keyboard KEYEDGE 3
++666660 org.jpc.emulator.peripheral.Keyboard KEYEDGE 1
++666660 org.jpc.emulator.peripheral.Keyboard KEYEDGE 66
++121069244 SAVESTATE ce46c6277673024a77fd1a3da4dd7fdaa691ca7ff81fe0e7 6
++0 SAVESTATE f1adefc4ddffb9f4cf936a00a37d3d4ee270d6e499f03bd4 6
++0 SAVESTATE 18fc0c991090717d6744fa7266fbe848b2b57da62e012aa4 6
++0 SAVESTATE 9810b8707046d808f09eaf17f202b2ed5420b6b962535e38 6
++0 SAVESTATE 71125148b5d81ac2eb49bd408cbffdc8ab6ddc723a83490b 6
++0 SAVESTATE dba32cd974706f431469f2b31d96c0f5fc13afa7a442297d 6
++0 SAVESTATE e73e736980b86aa24f0665861a2b7be27ad450458f0ea49b 6
++470835226 SAVESTATE 7d1966a6202a4b23d1955a0f76040b3a62e457646912fea4 18
++385239790 SAVESTATE 3fe26f604175eb7cfbd460f1020e7ce2f6cf6c7995f0c9f4 19
++85608862 SAVESTATE c13d3b8d2efbd4e26af88a9b5bf108b592305fd36b169795 20
++0 SAVESTATE bb9ee4e3284d3e07438c62ce98ecaf7137ab3ea09cb20975 20
++0 SAVESTATE fee5e8d910649b01b5bcdd21fb4c398a03d9b31d592ac8d9 20
++0 SAVESTATE 0109bf159d0ff4e84819d9d146d6d305ee56b0b40f1c7d0e 20
++42803974 SAVESTATE 44ebde2aaa15a29eddd686c662b60f5a3d7b4456ed8afd94 20
++31848 org.jpc.emulator.peripheral.Keyboard KEYEDGE 1
++666660 org.jpc.emulator.peripheral.Keyboard KEYEDGE 1
++354971224 SAVESTATE a4e2c687bec10e17f054e8637f2aea588aa8b7423efa3ed0 23
++0 SAVESTATE 87cf934d1bfe95e20757176091e60be3a0ef46b7969fc96b 23
++0 SAVESTATE 7f13a977de89266e8043c8f0c80631f128c7c57e1cb43e75 23
++0 SAVESTATE bfbb0dd4a70a561784388e521b8996dc8d9ecf737c9dee10 23
++25226 org.jpc.emulator.peripheral.Keyboard KEYEDGE 1
++666660 org.jpc.emulator.peripheral.Keyboard KEYEDGE 1
++666660 org.jpc.emulator.peripheral.Keyboard KEYEDGE 1
++666660 org.jpc.emulator.peripheral.Keyboard KEYEDGE 1
++4347530992 SAVESTATE a5db9c1ed3e381d5feea6334da1fc4775b1a898d4e0f1a2c 23
++171217666 SAVESTATE 2a105d845dbdfc94b2ec80e31316f98d5aac477f4c2abdce 24
++3254384 SAVESTATE 869aa2240d3e70b489275842c0e666a21a0a6b5df3e282a9 26
++14308762 SAVESTATE 32c1f2bda1c21990d62a3d09b91af2e27fbe469152d3d328 29
++42832 org.jpc.emulator.peripheral.Keyboard KEYEDGE 1
++666660 org.jpc.emulator.peripheral.Keyboard KEYEDGE 1
++666660 org.jpc.emulator.peripheral.Keyboard KEYEDGE 1
++666660 org.jpc.emulator.peripheral.Keyboard KEYEDGE 1
++666660 org.jpc.emulator.peripheral.Keyboard KEYEDGE 1
++666660 org.jpc.emulator.peripheral.Keyboard KEYEDGE 1
++666660 org.jpc.emulator.peripheral.Keyboard KEYEDGE 1
++666660 org.jpc.emulator.peripheral.Keyboard KEYEDGE 1
++666660 org.jpc.emulator.peripheral.Keyboard KEYEDGE 1
++666660 org.jpc.emulator.peripheral.Keyboard KEYEDGE 1
++666660 org.jpc.emulator.peripheral.Keyboard KEYEDGE 1
++666660 org.jpc.emulator.peripheral.Keyboard KEYEDGE 1
++666660 org.jpc.emulator.peripheral.Keyboard KEYEDGE 1
++666660 org.jpc.emulator.peripheral.Keyboard KEYEDGE 1
++666660 org.jpc.emulator.peripheral.Keyboard KEYEDGE 1
++666660 org.jpc.emulator.peripheral.Keyboard KEYEDGE 1
++203938720 SAVESTATE 8432b453327857d5b6c2ffa0592a4b176946ec764f449f2c 30
++385239880 SAVESTATE 7734b06ce69d5dd7a57a9684cafe2960cd0d10b41534e124 32
++0 SAVESTATE d8e72d033cc6f450ea79898911b928a4b2e55bde17235511 32
++0 SAVESTATE 18662fd5704e80a6f906ea95d4b8d15e118d14c18b73fa57 32
++0 SAVESTATE 400dc8ee8c218769a3280e05e32d04979db74d9ef9ec6453 32
++0 SAVESTATE 53fd9e3360ee1fe149adb80f7ddf19e8408e9943e2b079e6 32
++0 SAVESTATE 1631ec3abdf5649c3f958306648b5c2c46f51a4dbd9591f1 32
++0 SAVESTATE ec784f5f5ea6a4d5676183fafd3512286bfc7a567cef29f7 32
++42804400 SAVESTATE 943ace770014de9766783bc22c12607413d3fa4cbcd4a23b 36
++28535400 SAVESTATE 9fba42d13fb338849034c2d30b0728202a451471a51781fa 39
++14274852 org.jpc.emulator.peripheral.Keyboard KEYEDGE 1
++666660 org.jpc.emulator.peripheral.Keyboard KEYEDGE 1
++341761540 SAVESTATE 0eb0d5f8206b4c3c5060353473614ce16f47a02ed00125c0 40
++28568090 org.jpc.emulator.peripheral.Keyboard KEYEDGE 1
++666660 org.jpc.emulator.peripheral.Keyboard KEYEDGE 1
++227591434 SAVESTATE 0b71fae7f168573298040cb9e4082880d7f63c07b5bca848 51
++57072574 SAVESTATE 49d2b0a2e22b5ccba5cb78d81276b8ad0096cd717e33f2b6 53
++0 SAVESTATE d832b882e9e629ecf8f53896b18f1dc4cc038246cd01f08b 53
++214021986 SAVESTATE 60ee847e7a3c269e7bda836cbf039585c79d5c7df3d46568 61
++85608862 SAVESTATE 4a10c0dd63aad399c80ec7a21663712a8115f07db359786b 65
++128413166 SAVESTATE d052c95f54673213731dbdff9a57eb36adafa3f03657258c 67
++85608816 SAVESTATE 5aa66e8192d8beddf18a965ebaea173135731821e48b77a8 71
++42804420 SAVESTATE 533a7268cfc7957a04057ec8e599fc21d9553151be2c941c 76
++28535706 SAVESTATE 7d9b980eee4807c2633592a6fa0e9cf5384980303c575574 77
++1006 org.jpc.emulator.peripheral.Keyboard KEYEDGE 1
++666660 org.jpc.emulator.peripheral.Keyboard KEYEDGE 1
++666660 org.jpc.emulator.peripheral.Keyboard KEYEDGE 1
++666660 org.jpc.emulator.peripheral.Keyboard KEYEDGE 1
++666660 org.jpc.emulator.peripheral.Keyboard KEYEDGE 1
++666660 org.jpc.emulator.peripheral.Keyboard KEYEDGE 1
++666660 org.jpc.emulator.peripheral.Keyboard KEYEDGE 1
++666660 org.jpc.emulator.peripheral.Keyboard KEYEDGE 1
++666660 org.jpc.emulator.peripheral.Keyboard KEYEDGE 1
++666660 org.jpc.emulator.peripheral.Keyboard KEYEDGE 1
++666660 org.jpc.emulator.peripheral.Keyboard KEYEDGE 1
++666660 org.jpc.emulator.peripheral.Keyboard KEYEDGE 1
++666660 org.jpc.emulator.peripheral.Keyboard KEYEDGE 1
++666660 org.jpc.emulator.peripheral.Keyboard KEYEDGE 1
++666660 org.jpc.emulator.peripheral.Keyboard KEYEDGE 1
++666660 org.jpc.emulator.peripheral.Keyboard KEYEDGE 1
++666660 org.jpc.emulator.peripheral.Keyboard KEYEDGE 1
++666660 org.jpc.emulator.peripheral.Keyboard KEYEDGE 1
++666660 org.jpc.emulator.peripheral.Keyboard KEYEDGE 1
++666660 org.jpc.emulator.peripheral.Keyboard KEYEDGE 1
++666660 org.jpc.emulator.peripheral.Keyboard KEYEDGE 1
++666660 org.jpc.emulator.peripheral.Keyboard KEYEDGE 1
++666660 org.jpc.emulator.peripheral.Keyboard KEYEDGE 1
++666660 org.jpc.emulator.peripheral.Keyboard KEYEDGE 1
++666660 org.jpc.emulator.peripheral.Keyboard KEYEDGE 1
++666660 org.jpc.emulator.peripheral.Keyboard KEYEDGE 1
++666660 org.jpc.emulator.peripheral.Keyboard KEYEDGE 1
++666660 org.jpc.emulator.peripheral.Keyboard KEYEDGE 1
++666660 org.jpc.emulator.peripheral.Keyboard KEYEDGE 1
++666660 org.jpc.emulator.peripheral.Keyboard KEYEDGE 1
++666660 org.jpc.emulator.peripheral.Keyboard KEYEDGE 1
++666660 org.jpc.emulator.peripheral.Keyboard KEYEDGE 1
++666660 org.jpc.emulator.peripheral.Keyboard KEYEDGE 1
++666660 org.jpc.emulator.peripheral.Keyboard KEYEDGE 1
++666660 org.jpc.emulator.peripheral.Keyboard KEYEDGE 1
++666660 org.jpc.emulator.peripheral.Keyboard KEYEDGE 1
++666660 org.jpc.emulator.peripheral.Keyboard KEYEDGE 1
++666660 org.jpc.emulator.peripheral.Keyboard KEYEDGE 1
++666660 org.jpc.emulator.peripheral.Keyboard KEYEDGE 1
++666660 org.jpc.emulator.peripheral.Keyboard KEYEDGE 1
++666660 org.jpc.emulator.peripheral.Keyboard KEYEDGE 1
++666660 org.jpc.emulator.peripheral.Keyboard KEYEDGE 1
++666660 org.jpc.emulator.peripheral.Keyboard KEYEDGE 1
++535568 SAVESTATE b88088d74f250d53ac6cb675d62ca95dbe833903ccf30347 83
++131092 org.jpc.emulator.peripheral.Keyboard KEYEDGE 1
++85477770 SAVESTATE cfd09ffc4aa9539a3d710345ca4c517c06baca2bb4c21d59 84
++0 SAVESTATE 6f4b865f390905d08f9a3880a633d028ec8c0120521174a5 84
++0 SAVESTATE 22b0ec286dda8a159091611d527da7ab7371893e41d76ef4 84
++0 SAVESTATE 4f91938d234551a3f60e829ba1a2241d0cbee3e1620ac46d 84
++0 SAVESTATE 5db426707b7c15c4bb8c14d723b8baa82f2cd8ee6409010b 84
++0 SAVESTATE d2c4ca8f3e57fab47eb4744000d7ee35cbb6c9294ec5405c 84
++0 SAVESTATE 25c0c437ea116af87b229fb4fde153f9329f626664420bfc 84
++0 SAVESTATE 5c0d36c19832db072865a4dd68ede838e84bb450ddb4cf6f 84
++0 SAVESTATE d9f6cc1dd35c8d34d4942dbe02b239dafda2d7b6f586a0c2 84
++0 SAVESTATE 9d07df9f548a80d68cce868fe9661406a586b7eada525635 84
++0 SAVESTATE bd3406dc4842d063bef1f004e10f781592cea4c5c345ed63 84
++428044552 SAVESTATE 2483cd7c4856906f45a1c4c5182adc49237f17531ebb0c87 84
++256826370 SAVESTATE 90e89e18e9132ef87cb57f8224be2bc53f2b038d3d196add 87
++0 SAVESTATE 4c545ea08dc2848f7c1064658eb59a68add0958eddb668bb 87
++0 SAVESTATE 8dffa65230821649986c07a7474f40aec226b562bfbfff1b 87
++0 SAVESTATE f3f0f56d62d092f322c13a8d456ffd7569bde114b1b433b6 87
++0 SAVESTATE 62dbc0fbcd47d964821648127c79714edbc1c2df1018d138 87
++42804378 SAVESTATE 1cfb23b094b6d050f2f2e313e18bbe37d2b4dfb324358fc7 95
++71339500 SAVESTATE e1103526a1bdb63ea1566ce1b054bc08027cdf46d93fefb7 96
++85608800 SAVESTATE 4560bf84271a3cf39b46e9eaf39d24daeafb65d52abf6c8d 99
++14288786 org.jpc.emulator.peripheral.Keyboard KEYEDGE 208
++142660440 SAVESTATE efafb77add99c35baf011a30e6503c2f2734fdd3e224b464 102
++156949398 SAVESTATE 36cb16cff8bd92a71720056b6afe3057480015f46bc26707 110
++53832 org.jpc.emulator.peripheral.Keyboard KEYEDGE 28
++171198288 org.jpc.emulator.peripheral.Keyboard KEYEDGE 208
++14266524 org.jpc.emulator.peripheral.Keyboard KEYEDGE 28
++485100692 SAVESTATE 4a3a037788e22c850f6a2bcc5329bfa7beab61dd8645dba5 112
++27790 org.jpc.emulator.peripheral.Keyboard KEYEDGE 200
++156904010 SAVESTATE 650329bc9f63b43956d06faee0eed83b76a31aee34c10798 116
++42827326 org.jpc.emulator.peripheral.Keyboard KEYEDGE 28
++171198288 org.jpc.emulator.peripheral.Keyboard KEYEDGE 28
++470845582 SAVESTATE 0284f484f3ff4ec58f2d0425330a6f0a2162f7e81d715872 118
++16376 org.jpc.emulator.peripheral.Keyboard KEYEDGE 200
++1333320 org.jpc.emulator.peripheral.Keyboard KEYEDGE 205
++332562914 SAVESTATE 5d3ee86d4c085e840932a2dc85926ca223e7d111aad1d226 120
++0 SAVESTATE d33a2ea77c35acc55077655661f9d1b478bbd167d69a97ea 120
++550709768 SAVESTATE 9aaf63a6f75c14a3dd8403d856d940ed18e34c891d6d6da2 129
++14318342 org.jpc.emulator.peripheral.Keyboard KEYEDGE 28
++490728426 org.jpc.emulator.peripheral.Keyboard KEYEDGE 28
++666660 org.jpc.emulator.peripheral.Keyboard KEYEDGE 205
++407447290 SAVESTATE e1fb6a90a911848cc64027e314fbe3c48c4c48113d0daf8c 132
++15302 org.jpc.emulator.peripheral.Keyboard KEYEDGE 1
++171264954 org.jpc.emulator.peripheral.Keyboard KEYEDGE 1
++487351282 SAVESTATE 6a98e7fb6c921db70de9c782e817db5d4e766f6f38214534 134
++43844 org.jpc.emulator.peripheral.Keyboard KEYEDGE 200
++468505526 SAVESTATE f07a8be73b823480646375d0f23f34a3f47999b136ebea8a 135
++23122 org.jpc.emulator.peripheral.Keyboard KEYEDGE 200
++1333320 org.jpc.emulator.peripheral.Keyboard KEYEDGE 28
++155592866 SAVESTATE c17820d658d3cf2e0bdd6cc84e81ca2cc2822c3af24231b0 145
++5578 org.jpc.emulator.peripheral.Keyboard KEYEDGE 28
++666660 org.jpc.emulator.peripheral.Keyboard KEYEDGE 205
++397009058 SAVESTATE b38ea31d886c38f6b67bb874ee579474cc7fc03554b0ca88 146
++187311798 SAVESTATE 47334519405802b2c421907c27e2c97a48e41e21832bc47d 148
++128413284 SAVESTATE 4b7bb8eecb228c0bb23468205494aef856b8c63651b6282e 152
++58732 org.jpc.emulator.peripheral.Keyboard KEYEDGE 205
++42745444 SAVESTATE 7853b7607b2b6f1b6f8a3182484fe0e195b4ab843e52004e 156
++0 SAVESTATE b0ca98198aa0b0bf76155d0000e34adb91bb7c590dd25824 156
++0 SAVESTATE 9639488c30ea6a6721e7efe23965deb67d2de19f0b858c73 156
++0 SAVESTATE ffbaea652882cf0e888c2c27e18f626d46282b4223601590 156
++0 SAVESTATE 19b4d8ef5125e7cb3f370ad04576f8fb4f308ca6a7c24e81 156
++54128 org.jpc.emulator.peripheral.Keyboard KEYEDGE 1
++28533048 org.jpc.emulator.peripheral.Keyboard KEYEDGE 1
++14217120 SAVESTATE 062d6e4dc7a8df62b9ea9c100c383896f155f5547b3a91b5 186
++28582452 org.jpc.emulator.peripheral.Keyboard KEYEDGE 28
++14266524 org.jpc.emulator.peripheral.Keyboard KEYEDGE 28
++28491656 SAVESTATE dbe41d03f0a6df040072727590191cda7dc1241f548ea14c 188
++85608836 SAVESTATE 53966f7e05ac1578484ad00ea6e000f2e79e67a16fd77267 191
++99876972 SAVESTATE 4a3150f66a0dd21713d83efabe68f42e3deeb38642ac8de9 196
++185485452 SAVESTATE ca7af2ea83a0f201b8538c3ad16d5ec10586937ed6d7fa53 199
++66422 org.jpc.emulator.peripheral.Keyboard KEYEDGE 205
++299564120 SAVESTATE 79f13a7566ba0e6305b3f8ae39701e75db72e619c83e1281 201
++85608836 SAVESTATE 34917bd45302f9a1e753fc49f75c2cf72480adf581051b9a 202
++23192 org.jpc.emulator.peripheral.Keyboard KEYEDGE 28
++506328270 org.jpc.emulator.peripheral.Keyboard KEYEDGE 28
++250965018 SAVESTATE 84b9ce12c2ff17a89d36d8bd35f1dd0c563f375031ecb509 203
++0 SAVESTATE 30149d4de70040c0b4e915534fa52aaf4d6f0a492e56454c 203
++0 SAVESTATE f3a2c1fa51f2752b8a26c168cdd879028234156cc2ba9fd1 203
++0 SAVESTATE 20b86b8ee2888ab0c1637fbad38e89935efbe23922737bac 203
++7376321972 SAVESTATE e4e486e438dafba14af89cd25455109f134a2e57e76b377b 203
++0 SAVESTATE a201df8dd9ce40adf3d16bfefc026f7e2fbd85c8a3ca4a8f 203
++0 SAVESTATE c367bc2091766f213fce105f4c4a60c101605634be9d5ebf 203
++0 SAVESTATE c59cafe167bba453470678b33d71d0ed355befd72d27b04f 203
++0 SAVESTATE b339ace05bcde144e202af7d76277b530704d3abd71b3182 203
++0 SAVESTATE fe3f0a1954f6976cf87417bac63cd31ff8060dbe6e6efbc7 203
++0 SAVESTATE 6f52afae1ccdc5a6fc167600181b47b20f507ceba7542e43 203
++0 SAVESTATE 6812f478fcc42aebffdc4754d6e6e6be67b1783f2d9466b6 203
++0 SAVESTATE 94dc3af56feeaa5142a04cc6d77e061edbd93b6aa4be24e6 203
++0 SAVESTATE 1ff8c374baa473b9a97dd18302c149bbabc640a5c6d15431 203
+!BEGIN diskinfo-f334bc4d5dc5f393feb0ca2d1e1cdc25
++TYPE FLOPPY
++ID f334bc4d5dc5f393feb0ca2d1e1cdc25
++TRACKS 80
++SIDES 2
++SECTORS 18
++TOTALSECTORS 2880
++IMAGEMD5 347d5d30a05861acd8c15344dfefc976
+!BEGIN diskinfo-41b86dc485554846f540848bf0048b15
++TYPE BIOS
++ID 41b86dc485554846f540848bf0048b15
++IMAGELENGTH 131072
++IMAGEMD5 167da0eadd6b2c38b2e60f1a2d7fd2c4
+!BEGIN diskinfo-49c4268a1d38bc06c494ba6a0d4d592c
++TYPE BIOS
++ID 49c4268a1d38bc06c494ba6a0d4d592c
++IMAGELENGTH 38400
++IMAGEMD5 6afc4f788edb3d7ba698d92914d0acfb
+!BEGIN diskinfo-f30c92aaa8efd4d6a3936c6a2937d17e
++TYPE HDD
++ID f30c92aaa8efd4d6a3936c6a2937d17e
++TRACKS 16
++SIDES 16
++SECTORS 63
++TOTALSECTORS 16128
++IMAGEMD5 f58863803c5f1b003d98a11a71460fe5
++COMMENT(Entry: N/A            N/A                                      10 /)
++COMMENT(Entry: 19900101000000 706ca630fa56053388b322f0da4ab3d5      10795 /DN2HELP.EXE)
++COMMENT(Entry: 19900101000000 91846be25c24ac01b983786fb9f410c2       9499 /DN2HINT.EXE)
++COMMENT(Entry: 19900101000000 2d34e618cdc17857719890902df8aa56        446 /FILE_ID.DIZ)
++COMMENT(Entry: 19900101000000 342fe660b7222c6d84ebabc5abc563ea    5496675 /NUKEM2.CMP)
++COMMENT(Entry: 19900101000000 9c89c02891856091397ae92d18438096      59552 /NUKEM2.EXE)
++COMMENT(Entry: 19900101000000 b5985516a2e46f5ef81cb9abfa3265f3      98960 /NUKEM2.F1)
++COMMENT(Entry: 19900101000000 f517c739beb6ef8d7e51e937854100c3      38622 /NUKEM2.F2)
++COMMENT(Entry: 19900101000000 3eafe45253ef83669ac9c8476fa97de7      52427 /NUKEM2.F3)
++COMMENT(Entry: 19900101000000 f63eeeeb24c07f73b8fb4da56653e690     240848 /NUKEM2.F4)
++COMMENT(Entry: 19900101000000 98f0584c244df06d13f367206445cb72      33911 /NUKEM2.F5)
+!END
