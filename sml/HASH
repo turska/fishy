@@ -1,0 +1,35 @@
+md5sum:
+1f5a7f1a19adccdaf66270c7ea3e9097 marisaland.exe
+f845e3241d2a3392105d57a789575dc2 readme.txt
+584562c7aa17a330b52f568a3c8c256d sml.dat
+76e4d1150536ae5b6bf2978ce6aff84d sml2.dat
+e5151b763b841a37bb90f9d4270c87dc smlbgm.dat
+dc8bcd0be022e1721a4bca9cac19579b extra/011.bmp
+d647af4c7a42153927d3273c7fc0bd08 extra/不親切な開発用文章.txt
+090f48a7f0610447ee76e9c46596846a extra/不親切な開発用画像.bmp
+789446ff92ac5e2f9aac9bd56b792ccd extra/､｣ｿﾋ､ﾁﾇQｶ}道･ﾎ・ｹｳ.bmp
+0aaaab7d890873b89c7e429461f4f788 extra/､｣ｿﾋ､ﾁﾇQｶ}道･ﾎ､蟲ｹ.txt
+
+sha1sum:
+cb57b56040a89f3e24d82bc25fa9a4b46e44bd0d marisaland.exe
+8ee5fde5630053f0b1c07f28ec11da5b9c978f54 readme.txt
+2866169cee5bd3b28d55fee3a92e086e4633965a sml.dat
+daff787b09e6d3afd4848bda753fce4de080e8d6 sml2.dat
+5a2ad8cd1ed200581e04d20dfb49f33880eab429 smlbgm.dat
+e01adb56d183e7eae9abaa7779900c59f18e64e5 extra/011.bmp
+be6c7d35e254e7a7c20542e88bac4e73b6f9cc12 extra/不親切な開発用文章.txt
+3bad2145b74e875766cad0c0250f0bcd3468e5af extra/不親切な開発用画像.bmp
+429e7169d9ea24b48a0e11f23d114b399cd00ef1 extra/､｣ｿﾋ､ﾁﾇQｶ}道･ﾎ・ｹｳ.bmp
+e270129a9ac5b92593cc9f0a30a9e06dc351ffe7 extra/､｣ｿﾋ､ﾁﾇQｶ}道･ﾎ､蟲ｹ.txt
+
+sha256sum:
+334d880d8da51cfd0d91fe0d3bcbdbcf223e6ba73b0ab11aef0f7184c77a6f22 marisaland.exe
+188d7aadff18e6d8ced7b6d11696427659c66171ee81cf58369199cebe10b825 readme.txt
+c97c995806e606ce8399beb2b29223e125488679b222ca3feeae399d32cd4b21 sml.dat
+f83dd1941cc4d78d19911b4bdfe0aa462369a7f11d4cee9c9d04fb7ca2420c3d sml2.dat
+c1b8304c38f1ab03a0f5f93185f474fbeb347cf48fef28fa54fe244f51919e28 smlbgm.dat
+b466649ad42cb5e95cc55d78202c943588f24fb14f8edeb1fce3a4cc65d1d5da extra/011.bmp
+83552678180df6743525166e615b3babce6eb22038993e503ecf16d4ac6a2371 extra/不親切な開発用文章.txt
+1c7d7ef863f9da33d2fd5a8585da857867c048a296ecf6b6082863c0b646628f extra/不親切な開発用画像.bmp
+9f18413af69d900d49c4c31ca723eb9237b266200b4f5e90a9c9eed283977268 extra/､｣ｿﾋ､ﾁﾇQｶ}道･ﾎ・ｹｳ.bmp
+831d56a6c98559015fab143410d997d77fca6d59e6a508890535d523d6b40472 extra/､｣ｿﾋ､ﾁﾇQｶ}道･ﾎ､蟲ｹ.txt
